@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LevelExit
+  - Light
+  - Tester
+  - pushable
+  - Ladder
+  - Trigger1
+  - Ghost
+  - Interactable
+  - Collectable
+  - Hide
+  - DeathZone
+  - Green
+  - Blue
+  - Red
+  - Menu
+  - Level
+  - Credits
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - Ground
+  - Box
+  - RIddlePlattform
+  - Ghost
+  - Interactable
+  - Collectable
+  - Icons
+  - Protection
+  - Block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3639849091
+    locked: 0
+  - name: Plattform
+    uniqueID: 2296113979
+    locked: 0
+  - name: BehindPlayer
+    uniqueID: 3715476861
+    locked: 0
+  - name: Player
+    uniqueID: 1677712827
+    locked: 0
+  - name: Foreground
+    uniqueID: 2789602821
+    locked: 0

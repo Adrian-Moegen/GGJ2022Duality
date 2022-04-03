@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Final Levels/HauptMenu.unity
+    guid: 7bb25c5feaccfb94abf7bd3b67e39d2e
+  - enabled: 1
+    path: Assets/Scenes/Final Levels/DiaryClosed.unity
+    guid: 30352a24bc6cbe6429294b4c9b9ac03a
+  - enabled: 1
+    path: Assets/Scenes/Final Levels/DiaryBegin.unity
+    guid: a5cb069787745eb4782bee7eba6d42c5
+  - enabled: 1
+    path: Assets/Scenes/Final Levels/DiaryBegin2.unity
+    guid: 2cbf0c9c2e2babe408702a52e7efce9a
+  - enabled: 1
+    path: Assets/Scenes/Final Levels/BabyLevel.unity
+    guid: 34b9fda3cd117ba40b3aa93dd6a46df5
+  - enabled: 1
+    path: Assets/Scenes/Final Levels/SchoolLevel.unity
+    guid: a37aead87acbf49459cf1318a7bc7179
+  - enabled: 1
+    path: Assets/Scenes/Final Levels/Adult Level.unity
+    guid: 03407c59411c03049a0ac497e35d4339
+  - enabled: 1
+    path: Assets/Scenes/Final Levels/Senior Level.unity
+    guid: b4d95e2504cae9a469ffcc38717133f4
+  - enabled: 1
+    path: Assets/Scenes/Final Levels/DiaryEnd.unity
+    guid: c2684ea82d16205459674bf3c3739d95
+  - enabled: 1
+    path: Assets/Scenes/Final Levels/CreditScene.unity
+    guid: 01c7d6476fa8a9040bb0db5ade243492
+  - enabled: 1
+    path: Assets/Scenes/Final Levels/SettingsScene.unity
+    guid: 25cccfab0f7335c4d9af8fc143cb50f9
+  m_configObjects: {}
